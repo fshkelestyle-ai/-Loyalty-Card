@@ -1,0 +1,6 @@
+{
+  "name": "بطاقة الولاء",
+  "description": "تطبيق بطاقة الولاء القابل للتخصيص (White-label) للمطاعم والمقاهي والأنشطة التجارية بالدرهم المغربي مع ربط Google Sheets و Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
